@@ -1,0 +1,15 @@
+D:\Projects\C#\DeckOfCards\bin\Debug\net7.0\DeckOfCards.exe
+D:\Projects\C#\DeckOfCards\bin\Debug\net7.0\DeckOfCards.deps.json
+D:\Projects\C#\DeckOfCards\bin\Debug\net7.0\DeckOfCards.runtimeconfig.json
+D:\Projects\C#\DeckOfCards\bin\Debug\net7.0\DeckOfCards.dll
+D:\Projects\C#\DeckOfCards\bin\Debug\net7.0\DeckOfCards.pdb
+D:\Projects\C#\DeckOfCards\obj\Debug\net7.0\DeckOfCards.csproj.AssemblyReference.cache
+D:\Projects\C#\DeckOfCards\obj\Debug\net7.0\DeckOfCards.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\DeckOfCards\obj\Debug\net7.0\DeckOfCards.AssemblyInfoInputs.cache
+D:\Projects\C#\DeckOfCards\obj\Debug\net7.0\DeckOfCards.AssemblyInfo.cs
+D:\Projects\C#\DeckOfCards\obj\Debug\net7.0\DeckOfCards.csproj.CoreCompileInputs.cache
+D:\Projects\C#\DeckOfCards\obj\Debug\net7.0\DeckOfCards.dll
+D:\Projects\C#\DeckOfCards\obj\Debug\net7.0\refint\DeckOfCards.dll
+D:\Projects\C#\DeckOfCards\obj\Debug\net7.0\DeckOfCards.pdb
+D:\Projects\C#\DeckOfCards\obj\Debug\net7.0\DeckOfCards.genruntimeconfig.cache
+D:\Projects\C#\DeckOfCards\obj\Debug\net7.0\ref\DeckOfCards.dll
